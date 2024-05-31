@@ -1,0 +1,54 @@
+const data =[
+    {
+        id:1,
+        name:"John",
+        age:25
+    },
+    {
+        id:2,
+        name:"Jane",
+        age:30
+    },
+    {
+        id:3,
+        name:"Jane1",
+        age:30
+    },
+    {
+        id:4,
+        name:"Jane2",
+        age:30
+    },
+    {
+        id:5,
+        name:"Jane4",
+        age:30
+    },
+    {
+        id:6,
+        name:"Jane5",
+        age:30
+    },
+    {
+        id:7,
+        name:"Jane8",
+        age:30
+    },
+    {
+        id:8,
+        name:"Jane8",
+        age:30
+    },
+    {
+        id:9,
+        name:"Jane9",
+        age:30
+    },
+    {
+        id:10,
+        name:"Jane10",
+        age:30
+    },
+];
+
+export default data;
